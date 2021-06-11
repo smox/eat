@@ -1,0 +1,34 @@
+{
+  "name": "org.sm0x.tools.eat.api",
+  "version": "1.0.0",
+  "description": "A small restful api which pulls receips from various vendors and structures it in a mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smox/eat.git"
+  },
+  "keywords": [
+    "receips",
+    "fitness",
+    "webapp",
+    "mern",
+    "mernstack",
+    "node",
+    "mongo",
+    "mongodb",
+    "nodejs",
+    "express",
+    "typescript",
+    "react",
+    "reactjs"
+  ],
+  "author": "Michael Brunner <michael.brunner@sm0x.org>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/smox/eat/issues"
+  },
+  "homepage": "https://github.com/smox/eat#readme"
+}
